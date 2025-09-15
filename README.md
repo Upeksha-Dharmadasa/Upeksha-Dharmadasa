@@ -283,7 +283,7 @@ ML model development and deployment for mobile/web apps
 - 🌱 Learning: Advanced machine learning deployment techniques
 - 👯 Looking to collaborate on: Open source design systems
 - 💬 Ask me about: iOS development, React TypeScript, or UX research
-- 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me: [iudharmadasa@icloud.com](mailto:iudharmadasa@icloud.com)
 - ⚡ Fun fact: I've designed interfaces used by 100K+ people daily
 
 ---
